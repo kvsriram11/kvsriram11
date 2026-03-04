@@ -1,112 +1,102 @@
-<h1 align="center">Hi 👋 I'm Venkata Sriram</h1>
+<h1 align="center">Venkata Sriram</h1>
 
 <p align="center">
-MS Electrical & Computer Engineering • Hardware Design & Verification
+MS Electrical & Computer Engineering | B.Tech Electronics & Communication Engineering
 </p>
 
 <p align="center">
-RTL | SystemVerilog | UVM | FPGA | Computer Architecture | RISC-V
-</p>
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=RTL+Design+Engineer;SystemVerilog+%7C+UVM+Verification;FPGA+%7C+RISC-V+SoC+Development;Hardware+for+AI+Accelerators;Computer+Architecture+Enthusiast&center=true&width=600&height=45">
+RTL Design • Design Verification & Validation • Computer Architecture • FPGA Systems
 </p>
 
 ---
 
-## 🚀 About Me
+## 👋 About Me
 
-- MS Electrical & Computer Engineering student at **Portland State University**
-- Focused on **RTL Design, FPGA systems, and Design Verification**
-- Building **SystemVerilog + UVM verification environments**
-- Interested in **computer architecture, AI hardware accelerators, and high-performance silicon systems**
-- Passionate about **building hardware systems first and then implementing RTL and verification**
-
----
-
-## 🛠 Tech Stack
-
-### Hardware Design
-![Verilog](https://img.shields.io/badge/Verilog-blue)
-![SystemVerilog](https://img.shields.io/badge/SystemVerilog-purple)
-![RTL](https://img.shields.io/badge/RTL-orange)
-
-### Verification
-![UVM](https://img.shields.io/badge/UVM-green)
-![Functional Coverage](https://img.shields.io/badge/Functional-Coverage-blue)
-![Assertions](https://img.shields.io/badge/SystemVerilog%20Assertions-orange)
-
-### FPGA & SoC
-![Vivado](https://img.shields.io/badge/Vivado-red)
-![RISC-V](https://img.shields.io/badge/RISC--V-black)
-![FPGA](https://img.shields.io/badge/FPGA-blue)
-
-### Programming
-![C](https://img.shields.io/badge/C-blue)
-![Python](https://img.shields.io/badge/Python-yellow)
-
----
-
-## 🔬 Featured Projects
-
-### DDR5 PHY Verification Environment
-SystemVerilog and UVM based verification environment for DDR5 PHY write operations including driver, monitors, scoreboard and functional coverage.
-
-### IEEE-754 Floating Point Adder
-RTL implementation of floating point addition including normalization, rounding and exception handling.
-
-### 3×3 MAC Matrix Multiplier
-Hardware accelerator implementing multiply-accumulate operations commonly used in GPUs and AI accelerators.
-
-### RISC-V SoC on FPGA
-Implemented and verified a RISC-V based SoC system with peripherals and FPGA prototyping.
-
-### UART Protocol Design and Verification
-RTL implementation of UART transmitter and receiver with oversampling and coverage-driven verification.
+I am a graduate student in **Electrical & Computer Engineering at Portland State University** focused on **RTL design, verification, and digital system architecture**.  
+My work involves building hardware systems using **Verilog/SystemVerilog and validating them through structured verification methodologies**.  
+I enjoy exploring how efficient hardware architectures can accelerate modern compute workloads.
 
 ---
 
 ## 🧠 Research Interests
 
-- Hardware AI Accelerators
-- Design Verification with SystemVerilog and UVM
-- RISC-V Computer Architecture
-- High performance digital systems
-- FPGA prototyping and hardware acceleration
+- Hardware for AI / ML Acceleration  
+- FPGA Based System Prototyping  
+- High-Performance Digital Systems  
+- RISC-V Based System Design  
+
+---
+
+## 🔬 Projects
+
+- **DDR5 PHY Verification Environment**  
+  SystemVerilog and UVM based verification infrastructure with monitors, drivers, scoreboard and functional coverage.
+
+- **IEEE-754 Floating Point Adder**  
+  RTL implementation of floating point arithmetic including normalization and rounding stages.
+
+- **MAC Matrix Multiplier**  
+  Hardware accelerator implementing multiply-accumulate operations used in compute engines.
+
+- **RISC-V SoC on FPGA**  
+  Implementation and FPGA prototyping of a RISC-V based system with peripheral interfaces.
+
+- **UART Design & Verification**  
+  RTL implementation and verification of UART transmitter and receiver.
+
+---
+
+## 🧠 Areas of Interest
+
+<p>
+
+<img src="https://img.shields.io/badge/RTL%20Design-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SystemVerilog-purple?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/UVM-green?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/FPGA-black?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RISC--V-Architecture-red?style=for-the-badge"/>
+
+</p>
+
+---
+
+## 🛠 Tools & Technologies
+
+<p>
+
+<img src="https://img.shields.io/badge/Verilog-RTL-blue"/>
+<img src="https://img.shields.io/badge/SystemVerilog-Verification-purple"/>
+<img src="https://img.shields.io/badge/UVM-Testbench-green"/>
+<img src="https://img.shields.io/badge/Vivado-FPGA-red"/>
+<img src="https://img.shields.io/badge/C-Programming-blue"/>
+<img src="https://img.shields.io/badge/Python-Scripting-yellow"/>
+
+</p>
+
+---
+
+## 🚀 What I'm Up To
+
+- 🔭 I’m currently working on **RTL design and hardware verification projects**
+- 🌱 I’m currently learning **advanced verification methodologies and scalable hardware architectures**
+- 👯 I’m looking to collaborate on **hardware design, FPGA, and computer architecture projects**
+- 💬 Ask me about **RTL design, FPGA prototyping, verification flows, and digital systems**
+- 📫 How to reach me: **GitHub – kvsriram11**
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=kvsriram11&show_icons=true&theme=tokyonight">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=kvsriram11&show_icons=true&theme=tokyonight"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kvsriram11&layout=compact&theme=tokyonight"/>
+
 </p>
+
+---
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kvsriram11&theme=tokyonight">
+Building digital systems one module at a time.
 </p>
-
----
-
-## 📈 Most Used Languages
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kvsriram11&layout=compact&theme=tokyonight">
-</p>
-
----
-
-## 📈 Contribution Activity
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kvsriram11&theme=tokyo-night)
-
----
-
-## 🤝 Connect With Me
-
-LinkedIn: https://linkedin.com/in/YOURPROFILE  
-GitHub: https://github.com/YOURUSERNAME
-
----
-
-⭐ Building hardware systems one module at a time.
