@@ -13,7 +13,7 @@ RTL Design • Design Verification & Validation • Computer Architecture • FP
 </p>
 
 ---
-## 🧠 Areas of Work
+## Areas of Work
 
 <p align="center">
 
@@ -25,7 +25,7 @@ RTL Design • Design Verification & Validation • Computer Architecture • FP
 
 </p>
 
-## 👋 About Me
+## About Me
 
 Hi, I am a graduate student in **Electrical & Computer Engineering at Portland State University** focused on **RTL design, verification, and digital system architecture**.  
 My work involves building hardware systems using **Verilog/SystemVerilog and validating them through structured verification methodologies**.  
@@ -33,7 +33,7 @@ I enjoy exploring how efficient hardware architectures can accelerate modern com
 
 ---
 
-## 🧠 Research Interests
+## Research Interests
 
 - Hardware for AI / ML Acceleration  
 - FPGA Based System Prototyping  
@@ -42,7 +42,7 @@ I enjoy exploring how efficient hardware architectures can accelerate modern com
 
 ---
 
-## 🔬 Projects
+## Projects
 
 - **DDR5 PHY Verification Environment**  
   SystemVerilog and UVM based verification infrastructure with monitors, drivers, scoreboard and functional coverage.
@@ -61,7 +61,7 @@ I enjoy exploring how efficient hardware architectures can accelerate modern com
 
 ---
 
-## 🛠 Tools & Technologies
+## Tools & Technologies
 
 <p>
 
@@ -73,18 +73,6 @@ I enjoy exploring how efficient hardware architectures can accelerate modern com
 <img src="https://img.shields.io/badge/Python-Scripting-yellow"/>
 
 </p>
-
----
-
-## 🚀 What I'm Up To
-
-- 🔭 I’m currently working on **RTL design and hardware verification projects**
-- 🌱 I’m currently learning **advanced verification methodologies and scalable hardware architectures**
-- 👯 I’m looking to collaborate on **hardware design, FPGA, and computer architecture projects**
-- 💬 Ask me about **RTL design, FPGA prototyping, verification flows, and digital systems**
-- 📫 How to reach me: LinkedIn (Link on the left)
-
----
 
 ## ⚙️  Silicon Engineering Metrics
 
