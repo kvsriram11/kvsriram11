@@ -79,11 +79,11 @@ RTL implementation of UART transmitter and receiver with oversampling and covera
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight">
+<img src="https://github-readme-stats.vercel.app/api?username=kvsriram11&show_icons=true&theme=tokyonight">
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=tokyonight">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kvsriram11&theme=tokyonight">
 </p>
 
 ---
@@ -91,14 +91,14 @@ RTL implementation of UART transmitter and receiver with oversampling and covera
 ## 📈 Most Used Languages
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kvsriram11&layout=compact&theme=tokyonight">
 </p>
 
 ---
 
 ## 📈 Contribution Activity
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOURUSERNAME&theme=tokyo-night)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kvsriram11&theme=tokyo-night)
 
 ---
 
