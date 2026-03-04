@@ -24,6 +24,7 @@ RTL Design • Design Verification & Validation • Computer Architecture • FP
 <img src="https://img.shields.io/badge/RISC--V-Architecture-red?style=for-the-badge"/>
 
 </p>
+---
 ## 👋 About Me
 
 Hi, I am a graduate student in **Electrical & Computer Engineering at Portland State University** focused on **RTL design, verification, and digital system architecture**.  
