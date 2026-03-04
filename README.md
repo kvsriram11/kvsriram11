@@ -15,7 +15,7 @@ RTL Design • Design Verification & Validation • Computer Architecture • FP
 ---
 ## 🧠 Areas of Work
 
-<p>
+<p align="center">
 
 <img src="https://img.shields.io/badge/RTL%20Design-blue?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/SystemVerilog-purple?style=for-the-badge"/>
@@ -24,7 +24,7 @@ RTL Design • Design Verification & Validation • Computer Architecture • FP
 <img src="https://img.shields.io/badge/RISC--V-Architecture-red?style=for-the-badge"/>
 
 </p>
----
+
 ## 👋 About Me
 
 Hi, I am a graduate student in **Electrical & Computer Engineering at Portland State University** focused on **RTL design, verification, and digital system architecture**.  
@@ -82,7 +82,7 @@ I enjoy exploring how efficient hardware architectures can accelerate modern com
 - 🌱 I’m currently learning **advanced verification methodologies and scalable hardware architectures**
 - 👯 I’m looking to collaborate on **hardware design, FPGA, and computer architecture projects**
 - 💬 Ask me about **RTL design, FPGA prototyping, verification flows, and digital systems**
-- 📫 How to reach me: **GitHub – kvsriram11**
+- 📫 How to reach me: LinkedIn (Link on the left)
 
 ---
 
