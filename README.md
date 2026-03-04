@@ -9,7 +9,7 @@ RTL Design • Design Verification & Validation • Computer Architecture • FP
 </p>
 
 <p align="center"> <i>
-"There are two types of hardware bugs: the ones you find in simulation and the ones silicon finds for you." </i>>
+"There are two types of hardware bugs: the ones you find in simulation and the ones silicon finds for you." </i>
 </p>
 
 ---
@@ -101,5 +101,5 @@ I enjoy exploring how efficient hardware architectures can accelerate modern com
 </p>
 
 <p align="center">
-"There are two types of hardware bugs: the ones you find in simulation and the ones silicon finds for you."
+Building digital systems one module at a time.
 </p>
