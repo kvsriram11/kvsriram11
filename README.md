@@ -85,18 +85,17 @@ I enjoy exploring how efficient hardware architectures can accelerate modern com
 
 ---
 
-## 📊 GitHub Stats
+## ⚙️  Silicon Engineering Metrics
 
-<p align="center">
+<p>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=kvsriram11&show_icons=true&theme=tokyonight"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kvsriram11&layout=compact&theme=tokyonight"/>
+<img src="https://img.shields.io/badge/RTL%20Modules%20Designed-20+-blue"/>
+<img src="https://img.shields.io/badge/Verification%20Environments-5-green"/>
+<img src="https://img.shields.io/badge/FPGA%20Implementations-4-orange"/>
+<img src="https://img.shields.io/badge/Hardware%20Accelerators-2-purple"/>
 
 </p>
 
----
-
 <p align="center">
-Building digital systems one module at a time.
+"There are two types of hardware bugs: the ones you find in simulation and the ones silicon finds for you."
 </p>
