@@ -32,6 +32,29 @@ My work involves building hardware systems using **Verilog/SystemVerilog and val
 I enjoy exploring how efficient hardware architectures can accelerate modern compute workloads.
 
 ---
+## Tools & Technologies
+
+<p>
+
+<img src="https://img.shields.io/badge/Verilog-RTL-blue"/>
+<img src="https://img.shields.io/badge/SystemVerilog-Verification-purple"/>
+<img src="https://img.shields.io/badge/UVM-Testbench-green"/>
+<img src="https://img.shields.io/badge/Vivado-FPGA-red"/>
+<img src="https://img.shields.io/badge/C-Programming-blue"/>
+<img src="https://img.shields.io/badge/Python-Scripting-yellow"/>
+
+</p>
+
+## ⚙️  Silicon Engineering Metrics
+
+<p>
+
+<img src="https://img.shields.io/badge/RTL%20Modules%20Designed-20+-blue"/>
+<img src="https://img.shields.io/badge/Verification%20Environments-5-green"/>
+<img src="https://img.shields.io/badge/FPGA%20Implementations-4-orange"/>
+<img src="https://img.shields.io/badge/Hardware%20Accelerators-2-purple"/>
+
+</p>
 
 ## Research Interests
 
@@ -60,30 +83,6 @@ I enjoy exploring how efficient hardware architectures can accelerate modern com
   RTL implementation and verification of UART transmitter and receiver.
 
 ---
-
-## Tools & Technologies
-
-<p>
-
-<img src="https://img.shields.io/badge/Verilog-RTL-blue"/>
-<img src="https://img.shields.io/badge/SystemVerilog-Verification-purple"/>
-<img src="https://img.shields.io/badge/UVM-Testbench-green"/>
-<img src="https://img.shields.io/badge/Vivado-FPGA-red"/>
-<img src="https://img.shields.io/badge/C-Programming-blue"/>
-<img src="https://img.shields.io/badge/Python-Scripting-yellow"/>
-
-</p>
-
-## ⚙️  Silicon Engineering Metrics
-
-<p>
-
-<img src="https://img.shields.io/badge/RTL%20Modules%20Designed-20+-blue"/>
-<img src="https://img.shields.io/badge/Verification%20Environments-5-green"/>
-<img src="https://img.shields.io/badge/FPGA%20Implementations-4-orange"/>
-<img src="https://img.shields.io/badge/Hardware%20Accelerators-2-purple"/>
-
-</p>
 
 <p align="center">
 Building digital systems one module at a time.
