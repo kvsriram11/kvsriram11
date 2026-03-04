@@ -13,10 +13,20 @@ RTL Design • Design Verification & Validation • Computer Architecture • FP
 </p>
 
 ---
+## 🧠 Areas of Work
 
+<p>
+
+<img src="https://img.shields.io/badge/RTL%20Design-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SystemVerilog-purple?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/UVM-green?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/FPGA-black?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RISC--V-Architecture-red?style=for-the-badge"/>
+
+</p>
 ## 👋 About Me
 
-I am a graduate student in **Electrical & Computer Engineering at Portland State University** focused on **RTL design, verification, and digital system architecture**.  
+Hi, I am a graduate student in **Electrical & Computer Engineering at Portland State University** focused on **RTL design, verification, and digital system architecture**.  
 My work involves building hardware systems using **Verilog/SystemVerilog and validating them through structured verification methodologies**.  
 I enjoy exploring how efficient hardware architectures can accelerate modern compute workloads.
 
@@ -47,20 +57,6 @@ I enjoy exploring how efficient hardware architectures can accelerate modern com
 
 - **UART Design & Verification**  
   RTL implementation and verification of UART transmitter and receiver.
-
----
-
-## 🧠 Areas of Interest
-
-<p>
-
-<img src="https://img.shields.io/badge/RTL%20Design-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/SystemVerilog-purple?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/UVM-green?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/FPGA-black?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/RISC--V-Architecture-red?style=for-the-badge"/>
-
-</p>
 
 ---
 
