@@ -45,7 +45,7 @@ I enjoy exploring how efficient hardware architectures can accelerate modern com
 
 </p>
 
-## ⚙️  Silicon Engineering Metrics
+## Silicon Engineering Metrics
 
 <p>
 
