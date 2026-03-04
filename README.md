@@ -8,6 +8,10 @@ MS Electrical & Computer Engineering | B.Tech Electronics & Communication Engine
 RTL Design • Design Verification & Validation • Computer Architecture • FPGA Systems
 </p>
 
+<p align="center"> <i>
+"There are two types of hardware bugs: the ones you find in simulation and the ones silicon finds for you." </i>>
+</p>
+
 ---
 
 ## 👋 About Me
