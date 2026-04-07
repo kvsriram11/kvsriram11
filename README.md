@@ -1,4 +1,4 @@
-<h1 align="center">Venkata Sriram</h1>
+<h1 align="center">Venkata Sriram Kamarajugadda</h1>
 
 <p align="center">
 MS Electrical & Computer Engineering | B.Tech Electronics & Communication Engineering
