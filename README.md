@@ -5,7 +5,7 @@ MS Electrical & Computer Engineering | B.Tech Electronics & Communication Engine
 </p>
 
 <p align="center">
-RTL Design • Design Verification & Validation • Computer Architecture • FPGA Systems
+Hardware for AI-ML • Design Verification & Validation • Computer Architecture • FPGA Systems
 </p>
 
 <p align="center"> <i>
