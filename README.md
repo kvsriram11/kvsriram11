@@ -8,10 +8,13 @@ MS Electrical & Computer Engineering | B.Tech Electronics & Communication Engine
 Hardware for AI-ML • Design Verification & Validation • Computer Architecture • FPGA Systems
 </p>
 
+<p align="center"> <b> <i>
+"Engineer by the day, Maker by the night" </i></b>
+</p>
+
 <p align="center"> <i>
 "There are two types of hardware bugs: the ones you find in simulation and the ones silicon finds for you." </i>
 </p>
-
 ---
 ## Areas of Work
 
