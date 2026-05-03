@@ -31,7 +31,7 @@ Engineer by the day, Maker by the night </i></b>
 
 ## About Me
 
-Hi, I am a graduate student in **Electrical & Computer Engineering at Portland State University**, focused on **RTL design, verification, digital system architecture, and research-driven hardware design**. I enjoy working at the intersection of silicon and systems, building hardware from the ground up using **Verilog/SystemVerilog**, validating designs through structured verification methodologies, and exploring how efficient hardware architectures can accelerate modern compute workloads. Alongside my technical and research work, I am genuinely passionate about teaching and explaining each step of the design and verification process clearly.
+Hi, I am a graduate student in **Electrical & Computer Engineering at Portland State University**, focused on **RTL design, verification, embedded systems, circuit modeling and verification, digital system architecture, and research-driven hardware design**. I enjoy working at the intersection of silicon and systems, building hardware from the ground up using **Verilog/SystemVerilog**, validating designs through structured verification methodologies, and exploring how efficient hardware architectures can accelerate modern compute workloads. Alongside my technical and research work, I am genuinely passionate about teaching and explaining each step of the design and verification process clearly.
 
 ---
 ## Tools & Technologies
