@@ -27,9 +27,7 @@ Hardware for AI-ML • Design Verification & Validation • Computer Architectur
 
 ## About Me
 
-Hi, I am a graduate student in **Electrical & Computer Engineering at Portland State University** focused on **RTL design, verification, and digital system architecture**.  
-My work involves building hardware systems using **Verilog/SystemVerilog and validating them through structured verification methodologies**.  
-I enjoy exploring how efficient hardware architectures can accelerate modern compute workloads.
+Hi, I am a graduate student in **Electrical & Computer Engineering at Portland State University**, focused on **RTL design, verification, digital system architecture, and research-driven hardware design**. I enjoy working at the intersection of silicon and systems, building hardware from the ground up using **Verilog/SystemVerilog**, validating designs through structured verification methodologies, and exploring how efficient hardware architectures can accelerate modern compute workloads. Alongside my technical and research work, I am genuinely passionate about teaching and explaining each step of the design and verification process clearly.
 
 ---
 ## Tools & Technologies
