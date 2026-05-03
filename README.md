@@ -15,6 +15,7 @@ Engineer by the day, Maker by the night </i></b>
 <p align="center"> <i>
 "There are two types of hardware bugs: the ones you find in simulation and the ones silicon finds for you." </i>
 </p>
+
 ---
 ## Areas of Work
 
