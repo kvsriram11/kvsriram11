@@ -65,21 +65,20 @@ Hi, I am a graduate student in **Electrical & Computer Engineering at Portland S
 
 ## Projects
 
-- **DDR5 PHY Verification Environment**  
-  SystemVerilog and UVM based verification infrastructure with monitors, drivers, scoreboard and functional coverage.
+- **Chiplet-Based Reservoir Computing Accelerator**  
+  Structured-sparse hardware accelerator for efficient reservoir state update in streaming inference, exploring next-generation AI compute paradigms using Echo State Networks.
 
-- **IEEE-754 Floating Point Adder**  
-  RTL implementation of floating point arithmetic including normalization and rounding stages.
+- **Audio Delay System — RVfpga**  
+  FPGA-based audio delay system on Nexys A7 using the VeeRwolf RISC-V architecture through the RVfpga platform, developed as a hardware-software co-design project.
 
-- **MAC Matrix Multiplier**  
-  Hardware accelerator implementing multiply-accumulate operations used in compute engines.
+- **UVM Verification of MAC Unit — Matrix 3×3**  
+  UVM testbench targeting a 3×3 MAC matrix unit, verifying datapath integrity, accumulation correctness, and edge-case arithmetic behavior.
 
-- **RISC-V SoC on FPGA**  
-  Implementation and FPGA prototyping of a RISC-V based system with peripheral interfaces.
+- **UVM Verification of ALU**  
+  Complete UVM-based functional verification environment for an ALU, including driver, monitor, scoreboard, coverage groups, and constrained-random stimulus generation.
 
-- **UART Design & Verification**  
-  RTL implementation and verification of UART transmitter and receiver.
-
+- **SystemVerilog Design & Class-Based Verification of UART Protocol**  
+  RTL design of UART transmitter and receiver in SystemVerilog with a full class-based verification environment covering baud rate, start/stop bits, parity, and error injection testing.
 ---
 
 <p align="center">
