@@ -9,7 +9,7 @@ Hardware for AI-ML • Design Verification & Validation • Computer Architectur
 </p>
 
 <p align="center"> <b> <i>
-"Engineer by the day, Maker by the night" </i></b>
+Engineer by the day, Maker by the night </i></b>
 </p>
 
 <p align="center"> <i>
